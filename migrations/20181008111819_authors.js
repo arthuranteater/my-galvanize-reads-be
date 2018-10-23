@@ -6,6 +6,7 @@ exports.up = function(knex, Promise) {
     author.text("Last_Name");
     author.text("Bio");
     author.text("Author_Image");
+    ssss
   });
 };
 
